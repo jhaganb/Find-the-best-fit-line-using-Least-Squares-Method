@@ -1,4 +1,7 @@
 # Implementation of Univariate Linear Regression
+```
+Jhagan B 212220040066 CSE
+```
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
